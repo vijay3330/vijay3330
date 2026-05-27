@@ -134,8 +134,8 @@ BDD framework with Gherkin feature files written in plain English — bridging t
 
 I'm actively looking for **QA Engineer roles** — manual, automation, or mixed. If you're hiring or just want to talk testing, reach out!
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/vijay-ghadge-3b33ab219)
-- 📧 **Email:** [your@email.com](mailto:vijayghadge4974@gmail.com)
+- 💼 **LinkedIn:** [www.linkedin.com/in/vijay-ghadge-3b33ab219](www.linkedin.com/in/vijay-ghadge-3b33ab219)
+- 📧 **Email:** [vijayghadge4974@gmail.com](mailto:vijayghadge4974@gmail.com)
 - 📍 **Location:** Pune, India · Open to remote & hybrid & On-Site
 
 ---
